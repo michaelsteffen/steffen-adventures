@@ -29,31 +29,31 @@ Now we rest up for a day and get ready for the next steps.
   }'>
   <div class="masonry-grid-sizer"> </div>
    <div class="masonry-item full-width"> 
-    <img src="/img/2015-05-13-queenstown-teanau-kepler/IMG_1281.jpg" class="img-responsive">
+    <img src="{{ site.baseurl }}/img/2015-05-13-queenstown-teanau-kepler/IMG_1281.jpg" class="img-responsive">
   </div>
   <div class="masonry-item"> 
-    <img src="/img/2015-05-13-queenstown-teanau-kepler/IMG_1303.jpg" class="img-responsive">
+    <img src="{{ site.baseurl }}/img/2015-05-13-queenstown-teanau-kepler/IMG_1303.jpg" class="img-responsive">
   </div>
   <div class="masonry-item threequarters-width"> 
-    <img src="/img/2015-05-13-queenstown-teanau-kepler/IMG_1307.jpg" class="img-responsive">
+    <img src="{{ site.baseurl }}/img/2015-05-13-queenstown-teanau-kepler/IMG_1307.jpg" class="img-responsive">
   </div>
   <div class="masonry-item"> 
-    <img src="/img/2015-05-13-queenstown-teanau-kepler/IMG_1318.jpg" class="img-responsive">
+    <img src="{{ site.baseurl }}/img/2015-05-13-queenstown-teanau-kepler/IMG_1318.jpg" class="img-responsive">
   </div>
     <div class="masonry-item full-width"> 
-    <img src="/img/2015-05-13-queenstown-teanau-kepler/IMG_1343.jpg" class="img-responsive">
+    <img src="{{ site.baseurl }}/img/2015-05-13-queenstown-teanau-kepler/IMG_1343.jpg" class="img-responsive">
   </div>
   <div class="masonry-item half-width"> 
-    <img src="/img/2015-05-13-queenstown-teanau-kepler/IMG_1380.jpg" class="img-responsive">
+    <img src="{{ site.baseurl }}/img/2015-05-13-queenstown-teanau-kepler/IMG_1380.jpg" class="img-responsive">
   </div>
   <div class="masonry-item half-width"> 
-    <img src="/img/2015-05-13-queenstown-teanau-kepler/IMG_1389.jpg" class="img-responsive">
+    <img src="{{ site.baseurl }}/img/2015-05-13-queenstown-teanau-kepler/IMG_1389.jpg" class="img-responsive">
   </div>
   <div class="masonry-item full-width"> 
-    <img src="/img/2015-05-13-queenstown-teanau-kepler/IMG_1427.jpg" class="img-responsive">
+    <img src="{{ site.baseurl }}/img/2015-05-13-queenstown-teanau-kepler/IMG_1427.jpg" class="img-responsive">
   </div>
   <div class="masonry-item full-width"> 
-    <img src="/img/2015-05-13-queenstown-teanau-kepler/IMG_1490.jpg" class="img-responsive">
+    <img src="{{ site.baseurl }}/img/2015-05-13-queenstown-teanau-kepler/IMG_1490.jpg" class="img-responsive">
   </div>
 </div>
 

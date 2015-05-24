@@ -19,16 +19,16 @@ Indy's off to Houston, we're packed up, and off we go!
   }'>
   <div class="masonry-grid-sizer"> </div>
    <div class="masonry-item"> 
-    <img src="/img/2015-05-04-goodbye-ca/IMG_1223.jpg" class="img-responsive">
+    <img src="{{ site.baseurl }}//img/2015-05-04-goodbye-ca/IMG_1223.jpg" class="img-responsive">
   </div>
   <div class="masonry-item threequarters-width"> 
-    <img src="/img/2015-05-04-goodbye-ca/IMG_1270.jpg" class="img-responsive">
+    <img src="{{ site.baseurl }}//img/2015-05-04-goodbye-ca/IMG_1270.jpg" class="img-responsive">
   </div>
   <div class="masonry-item"> 
-    <img src="/img/2015-05-04-goodbye-ca/IMG_1252.jpg" class="img-responsive">
+    <img src="{{ site.baseurl }}//img/2015-05-04-goodbye-ca/IMG_1252.jpg" class="img-responsive">
   </div>
   <div class="masonry-item"> 
-    <img src="/img/2015-05-04-goodbye-ca/IMG_1256.jpg" class="img-responsive">
+    <img src="{{ site.baseurl }}//img/2015-05-04-goodbye-ca/IMG_1256.jpg" class="img-responsive">
   </div>
 
 </div>
