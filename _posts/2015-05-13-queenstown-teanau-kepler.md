@@ -1,7 +1,7 @@
 ---
 layout: 	post
 title:  	"Queenstown-Te Anau-Kepler"
-subtitle:   "First adventures in New Zeland"
+subtitle:   "First adventures in New Zealand"
 author:     "Michael and Robynn"
 date:   	2015-05-13
 header-img: "img/2015-05-13-queenstown-teanau-kepler/IMG_1389.jpg"

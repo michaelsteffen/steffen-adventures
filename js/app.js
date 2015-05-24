@@ -1,8 +1,11 @@
+---
+---
+
 var app = {
   locations: {},
   mapDiv: "map",
-  locationFile: "/locations.geojson",
-  styleFile: "/js/map-style.json",
+  locationFile: "{{ site.baseurl }}/locations.geojson",
+  styleFile: "{{ site.baseurl }}/map-style.json",
   map: {},
   locations: {},
   clusteredLocations: {}
