@@ -1,0 +1,12 @@
+# Site settings
+title: Steffen Adventures
+header-img: img/IMG_1719.jpg
+email: ""
+description: "The international wanderings of Robynn and Michael Steffen"
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 5

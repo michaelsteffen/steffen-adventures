@@ -1,0 +1,13 @@
+{"type":"FeatureCollection",
+  "features":
+  [{
+    "type":"Feature",
+    "properties": {
+      "date": "2015-05-05T00:00:01"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates":[-26,23]
+    }
+  }]
+}
