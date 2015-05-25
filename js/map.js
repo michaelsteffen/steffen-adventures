@@ -17,8 +17,8 @@
 			app.map = new mapboxgl.Map({
 				container: app.mapDiv,
 				style: style,
-				center: [0, 0],
-				zoom: 1.01,
+				center: [1.0, 169.0],
+				zoom: 1.6,
 				hash: true
 			});
 			
