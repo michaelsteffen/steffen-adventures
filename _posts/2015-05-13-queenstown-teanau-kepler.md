@@ -4,7 +4,7 @@ title:  	"Queenstown-Te Anau-Kepler"
 subtitle:   "First adventures in New Zealand"
 author:     "Michael and Robynn"
 date:   	2015-05-13
-header-img: "img/2015-05-13-queenstown-teanau-kepler/IMG_1389.jpg"
+header-img: "img/queenstown-teanau-kepler-header.jpg"
 lat: 		-45.414679
 lon: 		167.708361
 ---
@@ -23,36 +23,9 @@ After another quiet rainy day at the next hut, we combined the final two days of
 
 Now we rest up for a day and get ready for the next stage of our journey.
 
-<div id="masonry-container">
-  <div class="masonry-grid-sizer"> </div>
-   <div class="masonry-item full-width"> 
-    <img src="{{ site.baseurl }}/img/2015-05-13-queenstown-teanau-kepler/IMG_1281.jpg" class="img-responsive">
-  </div>
-  <div class="masonry-item"> 
-    <img src="{{ site.baseurl }}/img/2015-05-13-queenstown-teanau-kepler/IMG_1303.jpg" class="img-responsive">
-  </div>
-  <div class="masonry-item threequarters-width"> 
-    <img src="{{ site.baseurl }}/img/2015-05-13-queenstown-teanau-kepler/IMG_1307.jpg" class="img-responsive">
-  </div>
-  <div class="masonry-item"> 
-    <img src="{{ site.baseurl }}/img/2015-05-13-queenstown-teanau-kepler/IMG_1318.jpg" class="img-responsive">
-  </div>
-    <div class="masonry-item full-width"> 
-    <img src="{{ site.baseurl }}/img/2015-05-13-queenstown-teanau-kepler/IMG_1343.jpg" class="img-responsive">
-  </div>
-  <div class="masonry-item half-width"> 
-    <img src="{{ site.baseurl }}/img/2015-05-13-queenstown-teanau-kepler/IMG_1380.jpg" class="img-responsive">
-  </div>
-  <div class="masonry-item half-width"> 
-    <img src="{{ site.baseurl }}/img/2015-05-13-queenstown-teanau-kepler/IMG_1389.jpg" class="img-responsive">
-  </div>
-  <div class="masonry-item full-width"> 
-    <img src="{{ site.baseurl }}/img/2015-05-13-queenstown-teanau-kepler/IMG_1427.jpg" class="img-responsive">
-  </div>
-  <div class="masonry-item full-width"> 
-    <img src="{{ site.baseurl }}/img/2015-05-13-queenstown-teanau-kepler/IMG_1490.jpg" class="img-responsive">
-  </div>
-</div>
+<img src="{{ site.baseurl }}/img/queenstown-teanau-kepler-collage.jpg" class="img-responsive">
+
+
 
 
 

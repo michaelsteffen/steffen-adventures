@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <p class="copyright text-muted">Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
+                <p class="copyright text-muted">Copyright &copy; the Steffens {{ site.time | date: '%Y' }}</p>
             </div>
         </div>
     </div>
@@ -15,23 +15,5 @@
 <!-- Bootstrap Core JavaScript -->
 <script src="{{ "/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
 
-<!-- Masonry JavaScript -->
-<script src="{{ "/js/masonry.pkgd.min.js " | prepend: site.baseurl }}"></script>
-<script src="{{ "/js/imagesloaded.pkgd.min.js " | prepend: site.baseurl }}"></script>
-
 <!-- Custom Theme JavaScript -->
 <script src="{{ "/js/clean-blog.js " | prepend: site.baseurl }}"></script>
-
-<!-- Should really be folded into the theme JavaScript -->
-<script>
-var $masonryContainer = $('#masonry-container');
-if ($masonryContainer) {
-	$masonryContainer.imagesLoaded( function() { $masonryContainer.masonry( {
-  		columnWidth: ".masonry-grid-sizer",
-  		gutter: 5,
-  		itemSelector: ".masonry-item",
-  		percentPosition: true
-		}); 
-	});
-}
-</script>

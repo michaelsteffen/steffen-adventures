@@ -33,21 +33,6 @@
   display: table-cell;
 }
 
-/* === For Masonry === */
-
-#masonry-container { 
-  margin-top: 50px;
-  width: 100%; 
-}
-.masonry-grid-sizer { width: 24%; }
-.masonry-item { 
-  width: 24%; 
-  margin-bottom: 5px
-}
-.masonry-item.half-width { width: 48%; }
-.masonry-item.threequarters-width { width: 73%; }
-.masonry-item.full-width { width: 98%; }
-
 /* === Based on Clean Blog v1.0.0 (http://startbootstrap.com) === */
 
 body {
