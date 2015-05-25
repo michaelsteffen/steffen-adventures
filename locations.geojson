@@ -11,7 +11,7 @@
       "id": "post-{{ post.id }}",
       "type": "check-in",
       "date": "{{ post.date | date: "%B %-d, %Y" }}",
-      "url": "{{ site.baseurl }}/{{ post.url }}"
+      "url": "{{ site.baseurl }}{{ post.url }}"
     },
     "geometry": {
       "type": "Point",
