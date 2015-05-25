@@ -92,7 +92,7 @@
   "sources": {
     "locations": {
       "type": "geojson",
-      "data": "{{ site.baseurl }}/locations.geojson"
+      "data": "http://{{ site.domain }}/{{ site.baseurl }}/locations.geojson"
     },
     "mapbox": {
       "url": "mapbox://mapbox.mapbox-streets-v6",
