@@ -23,7 +23,17 @@ After another quiet rainy day at the next hut, we combined the final two days of
 
 Now we rest up for a day and get ready for the next stage of our journey.
 
+---
+
+# Photos
+
 <img src="{{ site.baseurl }}/img/queenstown-teanau-kepler-collage.jpg" class="img-responsive">
+
+---
+
+# Video
+
+<iframe src="https://player.vimeo.com/video/128851101?title=0&byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 
