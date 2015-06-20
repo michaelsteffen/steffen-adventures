@@ -4,11 +4,10 @@
 var app = {
   locations: {},
   mapDiv: "map",
-  locationFile: "{{ site.baseurl }}/locations.geojson",
+  locationFile: "{{ site.baseurl }}/post-locations.geojson",
   styleFile: "{{ site.baseurl }}/map-style.json",
   map: {},
-  locations: {},
-  clusteredLocations: {}
+  locations: {}
 };
 
 mapboxgl.accessToken = 'pk.eyJ1IjoibWFzMjIyIiwiYSI6Ikc2STF6MzAifQ.rRkEFqc17IcaQesSHxUV1w';

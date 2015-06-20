@@ -92,7 +92,11 @@
   "sources": {
     "locations": {
       "type": "geojson",
-      "data": "http://{{ site.domain }}/{{ site.baseurl }}/locations.geojson"
+      "data": "http://{{ site.domain }}/{{ site.baseurl }}/post-locations.geojson"
+    },
+    "travel": {
+      "type": "geojson",
+      "data": "http://{{ site.domain }}/{{ site.baseurl }}/travel.geojson"
     },
     "mapbox": {
       "url": "mapbox://mapbox.mapbox-streets-v6",
@@ -951,6 +955,34 @@
       "line-width": "@admin-2-boundary"
     }
   }, {
+    "id": "ground-travel-lines",
+    "type": "line",
+    "source": "travel",
+    "filter": ["all", ["!=", "type", "flight"], ["!=", "type", "walk"]],
+    "layout": {
+      "line-cap": "round",
+      "line-join": "round"
+    },
+    "paint": {
+      "line-color": "orange",
+      "line-width": 3,
+      "line-opacity": 0.75
+    }
+  }, {
+    "id": "walk-lines",
+    "type": "line",
+    "source": "travel",
+    "filter": ["==", "type", "walk"],
+    "layout": {
+      "line-cap": "round",
+      "line-join": "round"
+    },
+    "paint": {
+      "line-color": "orange",
+      "line-width": 1.5,
+      "line-opacity": 0.75
+    }
+  }, {
       "id": "posts",
       "type": "symbol",
       "source": "locations",
@@ -960,8 +992,35 @@
       },
       "paint": { },
       "interactive": "true"
-  },
-  {
+  }, {
+    "id": "air-travel-lines-casing",
+    "type": "line",
+    "filter": ["==", "type", "flight"],
+    "source": "travel",
+    "layout": {
+      "line-cap": "round"
+    },
+    "paint": {
+      "line-color": "white",
+      "line-gap-width": 5,
+      "line-width": 2,
+      "line-opacity": 0.75
+    }
+  }, {
+    "id": "air-travel-lines",
+    "type": "line",
+    "source": "travel",
+    "filter": ["==", "type", "flight"],
+    "layout": {
+      "line-cap": "round",
+      "line-join": "round"
+    },
+    "paint": {
+      "line-color": "orange",
+      "line-width": 5,
+      "line-opacity": 0.75
+    }
+  }, {
     "id": "country-label-lg",
     "type": "symbol",
     "source": "mapbox",

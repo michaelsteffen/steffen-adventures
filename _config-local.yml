@@ -1,0 +1,14 @@
+# Site settings
+title: Steffen Adventures
+header-img: img/site-header.jpg
+email: ""
+description: "The international wanderings of Robynn and Michael"
+domain: "localhost:4000"
+baseurl: "/steffen-adventures"
+url: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 10
+exclude: [utils]

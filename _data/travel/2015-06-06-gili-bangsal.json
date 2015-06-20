@@ -1,0 +1,19 @@
+{"type":"Feature","properties":{"type":"boat","date":"June 6","description":"Gili to Bangsal"},"geometry":{"type":"LineString","coordinates":[
+          [
+            116.099566,
+            -8.393758
+          ],
+          [
+            116.090813,
+            -8.37347
+          ],
+          [
+            116.083323,
+            -8.363815
+          ]
+        ]}}
+
+
+
+
+

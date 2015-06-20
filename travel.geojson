@@ -1,0 +1,13 @@
+---
+---
+
+{ "type":"FeatureCollection",
+  "features":
+  [
+  {% for trip_hash in site.data.travel %}
+    {% assign trip = trip_hash[1] %}
+    {{ trip | jsonify }}
+    {% unless forloop.last %},{% endunless %}
+  {% endfor %} 
+  ]
+}

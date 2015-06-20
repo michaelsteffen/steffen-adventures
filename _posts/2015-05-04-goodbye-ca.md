@@ -1,19 +1,19 @@
 ---
 layout: 	post
-title:  	"Departing"
-subtitle:   "Saying our goodbyes to California (for now)"
-author:     "Michael"
-date:   	2015-05-03
+title:  	"Goodbye, California"
+subtitle:   "Redwood City, California"
 header-img: "img/goodbye-ca-header.jpg"
 lat: 		37.480056 
 lon: 		-122.233068
 ---
 
-It's been quite a couple weeks.  For the second time in a year, we had our tickets booked and our plans all set for Nepal, and a car-ride arranged for Indy to her temporary home with my parents in Houston.  
+It's been quite a week.  
 
-Then, on the Wednesday before our last weekend in town, driving plans changed and I had to scramble to book a last minute plane flight to shuttle Indy to Texas. On Saturday, we woke up early to head to the airport, only to see the first tragic headlines of the Nepal earthquake.
+For the second time in a year, we had one-way tickets to Kathmandu in hand. Our plans were all set for the Manaslu Circuit Trek to be the first stop in four months of travel.  Beyond, we had booked nothing. We wanted to walk in the mountains in our first weeks and slowly slip into a new daily rhythm before deciding what comes next.
 
-Less than a week later, we've managed to piece our plans back together, and we're headed to New Zealand for adventures in a different set of world-class mountains.  Indy's off to Houston, we're packed up, and off we go.
+Just one week before our departure, we woke up to the heartbreaking headlines of the Nepal earthquake.
+
+In its wake, we scrambled to quickly piece our plans back together.  After brief flirtation with the epic Snowman Trek in Bhutan, we bought last-minute flights to New Zealand for adventures in a different set of world-class mountains.  Now Indy's settled in Houston to stay with Michael's family; we're packed up, and off we go.
 
 We only wish the many, many lives devastated by the tragedy in Nepal could be so easily repaired.  Our thoughts will be with the country as we head out.
 
