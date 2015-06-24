@@ -40,11 +40,11 @@ Some highlights:
 
 - The hardest part of driving on the left-hand side of the road is without question the fact that the windshield wipers are where your blinkers should be. Every time we wanted to turn, we switched on the windshield wipers. 
 - We had felt the emptiness of the country countless times -- on learning that it has a population of just four million, on seeing so few cars on the road -- but never did we feel it so acutely as our trip up the West Coast. Haast, Fox Glacier, Franz Joseph Glacier, Hokitika -- all the west coast border towns -- barely existed, with virtually nothing in between except the occasional helicopter off on a scenic flight. 
-- New Zealand's west coast road is not an ocean-side drive, but we got a few pretty views of the rugged coast as it peaked out from the rainforest, with fan tails dancing and diving at each lookout. 
+- New Zealand's west coast road is not an ocean-side drive, but we got a few pretty views of the rugged coast as it peaked out from the rainforest, with fantails dancing and diving at each lookout. 
 - Although nothing could compare to our front seat views of Mount Cook at Mueller Hut, we were charmed by the glacier-covered Southern Alps visible on the horizon -- even as we were just a stones throw from the sea. 
 - Our lunch was beer-battered fish and chips -- finally we broke down and tried New Zealand's "national dish"! Not bad.  Along with the "feijola" and golden kiwi, a few bright spots in a somewhat troubled cuisine. 
 - In a strange way, Hokitika may have been the highlight of the road trip, as it most embodied the spirit of random discovery we love about roadtripping. Time has not been kind to this goldrush town. You would never imagine 42 ships at its wharf, nor riches among its residents. But, despite Fodor's characterization of Hokitika as the most charming town on the West Coast, we came with few expectations and were delighted by the driftwood sculptures, the jade artisanal work (prized by the Maori), the man who "walked" his huskies from behind the wheel of a white SUV, the bits of history straight out of the [Luminaries](http://www.themanbookerprize.com/books/luminaries), which Robynn had just finished. Also, a lot of possum-fur clothing for sale. 
-- As the sun set, trucks came out in droves on the road -- some New Zelanad regulation about allowable driving hours maybe? There was also a speed-demon postal service driver who played hop scotch with us for a while.
+- As the sun set, trucks came out in droves on the road -- some New Zealand regulation about allowable driving hours maybe? There was also a speed-demon postal service driver who played hopscotch with us for a while.
 
 ---
 
