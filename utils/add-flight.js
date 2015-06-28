@@ -2,8 +2,8 @@
 
 var Arc = require('./arc');
 
-if (process.argv.length !== 9) {
-	console.error("Expected 7 arguments. Received", process.argv.length-1, "arguments.");
+if (process.argv.length !== 8) {
+	console.error("Expected 6 arguments. Received", process.argv.length-1, "arguments.");
 	console.error("Usage: node add-flight start-lon start-lat end-lon end-lat num-steps date description.");
 	process.exit(1);
 }
@@ -18,8 +18,7 @@ var outJSON = {
   "type":"Feature",
   "properties": {
     "type": "flight",
-    "date": process.argv[7],
-    "description": process.argv[8]
+    "description": process.argv[7]
   },
   "geometry": {
     "type": myArc.json().geometry.type,

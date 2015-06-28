@@ -1,4 +1,4 @@
-{"type":"Feature","properties":{"type":"drive","date":"May 29","description":"Despansar to Kuta"},"geometry":{"type":"LineString","coordinates":[
+{"type":"Feature","properties":{"type":"drive","description":"Despansar to Kuta"},"geometry":{"type":"LineString","coordinates":[
           [
             115.16538619995119,
             -8.740797381041608

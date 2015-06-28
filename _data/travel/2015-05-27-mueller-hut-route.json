@@ -2,7 +2,6 @@
   "type": "Feature",
   "properties": {
     "type": "walk",
-    "date": "May 19",
     "description": "Mueller Hut Route",
     "out-and-back": true
   },

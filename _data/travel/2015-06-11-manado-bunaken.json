@@ -1,4 +1,4 @@
-{"type":"Feature","properties":{"type":"boat","date":"June 15","description":"Manado To Bunaken"},"geometry":{"type":"LineString","coordinates":[
+{"type":"Feature","properties":{"type":"boat","description":"Manado To Bunaken"},"geometry":{"type":"LineString","coordinates":[
           [
             124.84083294868468,
             1.4959554657066063

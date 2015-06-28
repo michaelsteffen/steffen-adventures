@@ -1,4 +1,4 @@
-{"type":"Feature","properties":{"type":"boat","date":"May 30","description":"Fastboat Bali to Gili"},"geometry":{"type":"LineString","coordinates":[
+{"type":"Feature","properties":{"type":"boat","description":"Fastboat Bali to Gili"},"geometry":{"type":"LineString","coordinates":[
           [
             115.509888,
             -8.531871

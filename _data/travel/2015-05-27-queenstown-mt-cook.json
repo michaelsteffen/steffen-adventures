@@ -2,7 +2,6 @@
   "type":"Feature",
   "properties": {
     "type": "drive",
-    "date": "May 27",
     "description": "Queenstown to Mount Cook"
   },
   "geometry": {

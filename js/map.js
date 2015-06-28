@@ -5,7 +5,7 @@
   
   function buildMap() {
 
-    if (!mapboxgl.util.supported()) {
+    if (!mapboxgl.supported()) {
       $(rideMap.containerDiv).addClass('not-supported');
       return;
     }
@@ -26,7 +26,7 @@
 
       // add and tweak the controls
       app.map.addControl(new mapboxgl.Navigation({position: 'top-left'}));
-      $('.mapboxgl-ctrl-nav-compass').remove();
+      $('.mapboxgl-ctrl-compass').remove();
 
       // set up hover and click behaviors
       app.map.on('style.load', function() {

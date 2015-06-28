@@ -2,9 +2,9 @@
 
 var HTTP = require('http');
 
-if (process.argv.length !== 8) {
-  console.error("Expected 6 arguments. Received", process.argv.length-1, "arguments.");
-	console.error("Usage: node add-drive start-lon start-lat end-lon end-lat date description.");
+if (process.argv.length !== 7) {
+  console.error("Expected 5 arguments. Received", process.argv.length-1, "arguments.");
+	console.error("Usage: node add-drive start-lon start-lat end-lon end-lat description.");
   console.error(process.argv);
 	process.exit(1);
 }
@@ -40,8 +40,7 @@ HTTP.get(directionsRequest, function(response) {
       "type":"Feature",
       "properties": {
         "type": "drive",
-        "date": process.argv[6],
-        "description": process.argv[7]
+        "description": process.argv[6]
       },
       "geometry": {
         "type": data.routes[0].geometry.type,

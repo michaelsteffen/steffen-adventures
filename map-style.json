@@ -988,10 +988,10 @@
       "source": "locations",
       "layout": {
         "icon-image": "blog-entry",
-        "icon-allow-overlap": "true"
+        "icon-allow-overlap": true
       },
       "paint": { },
-      "interactive": "true"
+      "interactive": true
   }, {
     "id": "air-travel-lines-casing",
     "type": "line",

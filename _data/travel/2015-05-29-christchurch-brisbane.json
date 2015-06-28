@@ -2,7 +2,6 @@
   "type":"Feature",
   "properties": {
     "type": "flight",
-    "date": "May 29",
     "description": "Christchurch to Brisbane"
   },
   "geometry": {
