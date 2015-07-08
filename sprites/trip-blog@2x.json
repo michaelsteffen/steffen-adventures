@@ -3,7 +3,7 @@
     "x": 0,
     "y": 0,
     "width": 52,
-    "height": 52,
+    "height": 54,
     "pixelRatio": 2,
     "sdf": false
   },
@@ -11,7 +11,15 @@
     "x": 54,
     "y": 0,
     "width": 52,
-    "height": 52,
+    "height": 54,
+    "pixelRatio": 2,
+    "sdf": false
+  },
+  "dive-site": {
+    "x": 0,
+    "y": 56,
+    "width": 45,
+    "height": 45,
     "pixelRatio": 2,
     "sdf": false
   }

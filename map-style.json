@@ -90,13 +90,17 @@
     }
   },
   "sources": {
-    "locations": {
+    "post-locations": {
       "type": "geojson",
       "data": "http://{{ site.domain }}/{{ site.baseurl }}/post-locations.geojson"
     },
     "travel": {
       "type": "geojson",
       "data": "http://{{ site.domain }}/{{ site.baseurl }}/travel.geojson"
+    },
+    "pois": {
+      "type": "geojson",
+      "data": "http://{{ site.domain }}/{{ site.baseurl }}/pois.geojson"
     },
     "mapbox": {
       "url": "mapbox://mapbox.mapbox-streets-v6",
@@ -983,15 +987,26 @@
       "line-opacity": 0.75
     }
   }, {
-      "id": "posts",
-      "type": "symbol",
-      "source": "locations",
-      "layout": {
-        "icon-image": "blog-entry",
-        "icon-allow-overlap": true
-      },
-      "paint": { },
-      "interactive": true
+    "id": "dive-sites",
+    "type": "symbol",
+    "source": "pois",
+    "filter": ["==", "type", "dive site"],
+    "minzoom": 10,
+    "maxzoom": 22,
+    "layout": {
+      "icon-image": "dive-site",
+      "text-field": "{description}",
+      "text-font": "DIN Offc Pro Medium, Arial Unicode MS Regular",
+      "text-offset": [0, 1.4],
+      "text-anchor": "top"
+    },
+    "paint": {
+      "text-size": 10,
+      "text-color": "orange",
+      "text-halo-color": "white",
+      "text-halo-width": 1
+    },
+    "interactive": false
   }, {
     "id": "air-travel-lines-casing",
     "type": "line",
@@ -1797,5 +1812,34 @@
       "icon-halo-width": 1,
       "icon-halo-color": "rgba(0, 0, 0, 1)"
     }
+  }, {
+      "id": "posts",
+      "type": "symbol",
+      "source": "post-locations",
+      "layout": {
+        "icon-image": "blog-entry",
+        "icon-allow-overlap": true
+      },
+      "paint": { },
+      "interactive": true
+  }, {
+    "id": "post-names",
+    "type": "symbol",
+    "source": "post-locations",
+    "minzoom": 6,
+    "maxzoom": 22,
+    "layout": {
+      "text-field": "{date}: {title}",
+      "text-font": "DIN Offc Pro Bold, Arial Unicode MS Regular",
+      "text-offset": [0, 1.4],
+      "text-anchor": "top"
+    },
+    "paint": {
+      "text-size": 12,
+      "text-color": "orange",
+      "text-halo-color": "white",
+      "text-halo-width": 1
+    },
+    "interactive": false
   }]
 }

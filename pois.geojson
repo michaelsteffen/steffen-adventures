@@ -1,0 +1,53 @@
+{"type":"FeatureCollection",
+  "features": [
+    {
+    	"type":"Feature",
+    	"properties":{
+    		"type":"dive site",
+    		"description":"Hans Reef" },
+    	"geometry":{
+    		"type":"Point",
+    		"coordinates":[116.087465,-8.348236] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"dive site",
+        "description":"Mirkos" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[116.0642,-8.35183] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"dive site",
+        "description":"Shark Point" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[116.025860,-8.342571] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"dive site",
+        "description":"Manta Point" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[116.0347,-8.3643] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"dive site",
+        "description":"Halik" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[116.037426,-8.335565] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"dive site",
+        "description":"Marlin Hill" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[116.061480,-8.341798] }
+    }
+  ]
+}
