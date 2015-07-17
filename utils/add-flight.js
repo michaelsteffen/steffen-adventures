@@ -3,7 +3,7 @@
 var Arc = require('./arc');
 
 if (process.argv.length !== 8) {
-	console.error("Expected 6 arguments. Received", process.argv.length-1, "arguments.");
+	console.error("Expected 6 arguments. Received", process.argv.length-2, "arguments.");
 	console.error("Usage: node add-flight start-lon start-lat end-lon end-lat num-steps date description.");
 	process.exit(1);
 }

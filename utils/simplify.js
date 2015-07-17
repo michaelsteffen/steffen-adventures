@@ -1,9 +1,11 @@
+/* Takes a complex geojson file, 
+   throws out everything but LineStrings, 
+   and then combines them into one big multilinestring */
+
 'use strict';
 
-var HTTP = require('http');
-
-if (process.argv.length !== 7) {
-  console.error("Expected 5 arguments. Received", process.argv.length-2, "arguments.");
+if (process.argv.length !== 3) {
+  console.error("Expected 1 argument. Received", process.argv.length-2, "arguments.");
 	console.error("Usage: node add-drive start-lon start-lat end-lon end-lat description.");
   console.error(process.argv);
 	process.exit(1);

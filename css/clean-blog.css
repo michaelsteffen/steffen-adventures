@@ -50,6 +50,10 @@ p a {
   text-decoration: underline;
 }
 
+ul.styled-links a {
+  text-decoration: underline;
+}
+
 h1,
 h2,
 h3,
