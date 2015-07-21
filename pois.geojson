@@ -48,6 +48,74 @@
       "geometry":{
         "type":"Point",
         "coordinates":[116.061480,-8.341798] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"dive site",
+        "description":"Timor 1" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[124.784195,1.615118] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"dive site",
+        "description":"Bolung" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[124.846766,1.600313] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"dive site",
+        "description":"T.J. Parigi" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[124.767545,1.628143] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"dive site",
+        "description":"Sachikos" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[124.774625,1.631941] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"dive site",
+        "description":"Fukui" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[124.739413,1.611471] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"dive site",
+        "description":"Lekuwan II" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[124.765978,1.600281] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"dive site",
+        "description":"Tinogo" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[124.779753,1.694030] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"dive site",
+        "description":"Siladen Utera" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[124.799023,1.639291] }
     }
   ]
 }
+
+
+
+
