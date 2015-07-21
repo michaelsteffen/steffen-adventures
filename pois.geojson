@@ -112,9 +112,58 @@
       "geometry":{
         "type":"Point",
         "coordinates":[124.799023,1.639291] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"dive site",
+        "description":"Makawida 4" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[125.253968,1.482103] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"dive site",
+        "description":"Aerbajo" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[125.238455,1.482241] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"dive site",
+        "description":"Nudi Falls" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[125.226845,1.460408] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"dive site",
+        "description":"Batu Sandar" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[125.256500,1.486148] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"dive site",
+        "description":"Hair Ball 1" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[125.242101,1.499193] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"dive site",
+        "description":"Pintu Colada" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[125.239913,1.459690] }
     }
   ]
 }
+
 
 
 
