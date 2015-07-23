@@ -15,8 +15,16 @@
     "pixelRatio": 1,
     "sdf": false
   },
-  "dive-site": {
+  "climbing-site": {
     "x": 0,
+    "y": 29,
+    "width": 23,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "dive-site": {
+    "x": 25,
     "y": 29,
     "width": 23,
     "height": 22,

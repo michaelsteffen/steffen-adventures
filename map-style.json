@@ -1008,6 +1008,27 @@
     },
     "interactive": false
   }, {
+    "id": "climbing-sites",
+    "type": "symbol",
+    "source": "pois",
+    "filter": ["==", "type", "climbing site"],
+    "minzoom": 10,
+    "maxzoom": 22,
+    "layout": {
+      "icon-image": "climbing-site",
+      "text-field": "{description}",
+      "text-font": "DIN Offc Pro Medium, Arial Unicode MS Regular",
+      "text-offset": [0, 1.4],
+      "text-anchor": "top"
+    },
+    "paint": {
+      "text-size": 10,
+      "text-color": "orange",
+      "text-halo-color": "white",
+      "text-halo-width": 1
+    },
+    "interactive": false
+  }, {
     "id": "air-travel-lines-casing",
     "type": "line",
     "filter": ["==", "type", "flight"],

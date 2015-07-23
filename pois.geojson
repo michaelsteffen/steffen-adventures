@@ -160,6 +160,22 @@
       "geometry":{
         "type":"Point",
         "coordinates":[125.239913,1.459690] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"climbing site",
+        "description":"Swiss Cheese" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[110.473516,24.759246] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"climbing site",
+        "description":"Wine Bottle" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[110.494630,24.745288] }
     }
   ]
 }

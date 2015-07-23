@@ -3,8 +3,8 @@ layout: 	post
 title:  	"Rock Climbing Capital of China"
 subtitle:   "Yangshuo, China"
 header-img: "img/rock-climbing-header.jpg"
-lat: 		24.92018
-lon: 		110.52331
+lat: 		24.75408
+lon: 		110.48677
 ---
 
 Yangshuo is not only a superb cycling spot, it is also the rock climbing capital of China.  There are [] bolted routes on nearby karsts. Many of the hotels have names like [] and [].  
@@ -19,4 +19,3 @@ She welcomed us to join her for future climbs - which of course we accepted.
 
 
 The highest climbs were the best, as you emerged above the bamboo tree tops to get views of the karats all around.
-
