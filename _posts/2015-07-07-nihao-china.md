@@ -1,6 +1,6 @@
 ---
 layout: 	post
-title:  	"N&#464; h&#462;o, China!"
+title:  	"Ni hao, China!"
 subtitle:   "Guangzhou, China"
 header-img: "img/nihao-china-header.jpg"
 lat: 		22.98991
