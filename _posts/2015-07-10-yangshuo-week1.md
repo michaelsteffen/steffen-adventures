@@ -17,7 +17,7 @@ Mercifully, Mandarin grammar seems to be extremely simple, at least for the simp
 
 The upshot of all of this is that in just four days we are already constructing basic sentences -- in first, second, and third person as well as in the past, present, and future tense. But, sadly, no one can understand them!
 
-Well, almost no one.  We have managed at least a few times to not only ask the price of fruit at the stand near our English school but also understand the response -- a big achievement in our books! We're hoping that with practice we will be able to expand this incredibly limited repertoire a bit. 
+Well, almost no one.  We have managed at least a few times to not only ask the price of fruit at the stand near our language school but also understand the response -- a big achievement in our books! We're hoping that with practice we will be able to expand this incredibly limited repertoire a bit. 
 
 If this leaves you skeptical that 3 weeks of language study will prepare us to travel in China -- trust me, we're with you.  Luckily, our ability to navigate does not rely on our mandarin skills alone. Thank God for technology.
 
