@@ -3,13 +3,11 @@
   "version": "0.0.1",
   "description": "Some random utilities to help with my blog",
   "author": "Michael Steffen <masteffen@gmail.com>",
-  "scripts": {
-  },
+  "scripts": {},
   "dependencies": {
     "primus": "*",
     "async": "~0.8.0",
   },
-  "preferGlobal": true,
   "private": true,
   "license": "MIT"
 }
