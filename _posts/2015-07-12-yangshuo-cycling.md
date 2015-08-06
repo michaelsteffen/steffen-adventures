@@ -7,9 +7,9 @@ lat: 		24.92018
 lon: 		110.52331
 ---
 
-Cycling through Yangshuo's karst scenery makes many lists of China's greatest hits -- right up there with the Great Wall.  So, our first weekend in Yangshuo we set out for a ride. Yangshuo's Bike Asia recommended a two-day route, gave us detailed turn-by-turn directions, and provided us with top-notch mountain bikes, helmets, and a repair kit. The only tricky piece of cycling in Yanghuo was saying "bicycle" in mandarin: qi zixing che. 
+Cycling through Yangshuo's karst scenery makes many lists of China's greatest hits -- right up there with the Great Wall.  So, our first weekend in Yangshuo we set out for a ride. Yangshuo's Bike Asia recommended a two-day route, gave us detailed turn-by-turn directions, and provided us with top-notch mountain bikes, helmets, and a repair kit. The only tricky piece of cycling in Yanghuo was saying "go biking" in mandarin: qi zixing che. 
 
-The route was a 50-mile loop that started and ended in Yangshuo. The first day took us north to Xing Ping, situated on on the shores of the Li River among some of the region's most picturesque scenery. We stayed the night on the outskirts of Xing Ping in a lovely inn nestled amongst the karsts. On day two, we jogged north of Xing Ping to admire some of the most dramatic scenery and then crossed the Li River by ferry at the famous Nine Horses Fresco Hill.  We then cut across the countryside on a high-ridge road before descending to the lovely Yu Long River, which we followed back into Yangshuo -- partly with the aid of a bamboo raft.
+The route was a 50-mile loop that started and ended in Yangshuo. The first day took us north to Xing Ping, situated on on the shores of the Li River among some of the region's most picturesque scenery. We stayed the night on the outskirts of Xing Ping in a lovely inn nestled amongst the karsts. On day two, we jogged north of Xing Ping to admire some of the most dramatic scenery and then crossed the Li River by ferry at the famous Nine Horses Fresco Hill.  We then climbed "Husband Mountain" and cut across the countryside on a high-ridge road before descending to the lovely Yu Long River, which we followed back into Yangshuo -- partly with the aid of a bamboo raft.
 
 A few highlights:
 
