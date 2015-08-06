@@ -1,7 +1,7 @@
 ---
 layout: 	post
 title:  	"Biking Around Yangshuo"
-subtitle:   "Yangshuo, China"
+subtitle:   "Xing Ping, China"
 header-img: "img/yangshuo-cycling-header.jpg"
 lat: 		24.92018
 lon: 		110.52331
