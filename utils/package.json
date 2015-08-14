@@ -1,13 +1,10 @@
 {
   "name": "steffen-blog-utils",
   "version": "0.0.1",
-  "description": "Some random utilities to help with my blog",
+  "description": "Some utilities to help with my blog",
   "author": "Michael Steffen <masteffen@gmail.com>",
   "scripts": {},
-  "dependencies": {
-    "primus": "*",
-    "async": "~0.8.0",
-  },
+  "dependencies": {},
   "private": true,
   "license": "MIT"
 }

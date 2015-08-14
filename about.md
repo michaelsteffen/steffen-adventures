@@ -11,7 +11,7 @@ We both traveled outside the U.S. in our twenties. Though we hadn't yet met, the
 
 When we first began to dream of this trip, we thought of it as a once-in-a-lifetime event - an investment in our partnership that would last through our golden years. But, as we began to share our plans with friends and colleagues, we found so many of you have done inspiring travel at all stages of your lives: before starting a family, with pre-teens, empty-nested. You completely changed our paradigm. Extended travel awakens and connects us. It is something we hope to do not once in a lifetime, but at least once a decade.
 
-In 2015, we're traveling for four months to New Zealand, Indonesia, the Philippines, and China. Even as we soak up the present, we're keeping a “for next time” list with an eye toward 2025.
+In 2015, we're traveling for four months to [New Zealand, Indonesia, the Philippines, and China](/steffen-adventures/map/). Even as we soak up the present, we're keeping a “for next time” list with an eye toward 2025.
 
 ---
 

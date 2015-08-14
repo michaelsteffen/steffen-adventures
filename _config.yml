@@ -10,5 +10,4 @@ url: ""
 # Build settings
 markdown: kramdown
 permalink: pretty
-paginate: 20
 exclude: [utils]
