@@ -53,7 +53,7 @@
         });
 
         app.map.on('mousemove', function(e) {
-          app.map.featuresAt(e.point, {radius: 12}, function(err, features) {
+          app.map.featuresAt(e.point, {radius: 12, includeGeometry: true}, function(err, features) {
             if (err) throw err;
             if (features.length) {
               highlightSource.setData(features[0]);

@@ -1,6 +1,6 @@
 'use strict';
 
-var HTTP = require('http');
+var HTTPS = require('https');
 
 if (process.argv.length !== 7) {
   console.error("Expected 5 arguments. Received", process.argv.length-2, "arguments.");
@@ -13,14 +13,14 @@ var start = {x: process.argv[2], y: process.argv[3]}
 var end = {x: process.argv[4], y: process.argv[5]}
 
 var directionsRequest = 
-      "http://api.tiles.mapbox.com/v4/directions/mapbox.driving/" + 
+      "https://api.tiles.mapbox.com/v4/directions/mapbox.driving/" + 
       start.x + "," + start.y + ";" +
       end.x + "," + end.y + ".json" +
       "?access_token=pk.eyJ1IjoibWFzMjIyIiwiYSI6Ikc2STF6MzAifQ.rRkEFqc17IcaQesSHxUV1w";
 
 console.warn("Trying", directionsRequest, " . . .");
 
-HTTP.get(directionsRequest, function(response) {
+HTTPS.get(directionsRequest, function(response) {
   response.setEncoding('utf8');
 
   var data = '';

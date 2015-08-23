@@ -1,6 +1,9 @@
-/* Takes a complex geojson file, 
-   throws out everything but LineStrings, 
-   and then combines them into one big multilinestring */
+/* 
+
+Takes a Geojson file, throws out everything but LineStrings, 
+and then combines them into one big MultiLineString.
+
+*/
 
 'use strict';
 var fs = require('fs');

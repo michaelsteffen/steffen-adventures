@@ -1,10 +1,11 @@
 'use strict';
 
+// Requires Mapbox Arc.js to be in the same directory
 var Arc = require('./arc');
 
 if (process.argv.length !== 8) {
 	console.error("Expected 6 arguments. Received", process.argv.length-2, "arguments.");
-	console.error("Usage: node add-flight start-lon start-lat end-lon end-lat num-steps date description.");
+	console.error("Usage: node add-flight start-lon start-lat end-lon end-lat num-steps description.");
 	process.exit(1);
 }
 
