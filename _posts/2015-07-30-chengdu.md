@@ -1,0 +1,82 @@
+---
+layout: 	post
+title:  	"So Much Chili Oil"
+subtitle:   "Chengdu, China"
+header-img: "img/chengdu-header.jpg"
+lat: 		30.64775
+lon: 		104.07045
+---
+
+As our three weeks of [Survival Mandarin in Yangshuo](/steffen-adventures/2015/07/10/yangshuo-week1/) drew to a close, we were itching to get back on the road and explore more of China. At this point, we can reliably do the basics: order food, ask the price of things, buy train and bus tickets, and the like.  We can also answer the first few questions we reliably get along the way: we're American, we're married, and we're traveling in China for two months. Of course, understanding the rapid-fire Chinese that follows is still out of reach!
+
+For our next stop, we chose Chengdu. China's fifth largest city, Chengdu has a bit of Denver to it -- a inland western city, mountains towering just beyond, a laid back vibe, and a burgeoning tech scene.
+
+Chengdu embodies many of China's tensions. The downtown shopping plaza features glass skyscrapers that house major fashion and luxury brands, from Prada to Tiffany's. And yet, just a block from our hotel, a small crowd gathers nightly around a small screen, clustering on plastic stools on the sidewalk to watch TV shows screened by the corner store -- presumably because it's the only set available.  The Chengdu metro was state-of-the-art and spotless, but included public service announcements that underscored fast-changing norms.
+
+<img src="{{ site.baseurl }}/img/chengdu-metro.jpg">
+<span class="caption text-muted">An important reminder on the Chengdu metro -- please do not let your children pee or poop in the cars.</span> 
+
+The city's sprawl never seems to end, with countless multi-story condominiums and gated communities springing up to house the fourteen million people that call Chengdu home. But, at least downtown, the its parks offer a green oasis to join in a little Tai Chi or linger over a bottomless tea at one of Chengdu's charming teahouses.
+
+For us, the city beckoned for two main reasons. 
+
+### The Food
+
+As much as we liked Yangshuo, the food was one of its few disappointments. Chengdu, in contrast, is the Mecca of Sichuanese cuisine, one of China's most beloved culinary traditions.  We loved the fast-food dan dan mian -- Sichuanese beef noodles -- that we'd tried in Hong Kong, and were dying to get the real thing. And we find culinary exploration to be a bit like a scavenger hunt: as we seek out a city's famous eats, we discover neighborhoods and urban life off the tourist track. 
+
+So, with the aid of the [New York Times](http://www.nytimes.com/2015/07/05/travel/what-to-do-in-36-hours-in-chengdu-china.html), some [tips from friends](https://shawkeane.wordpress.com/2012/06/27/sichuan-feasts/), and a guided afternoon food tour with Susan from [Food and Drink Chengdu](http://www.eatdrinkchengdu.info/) we embarked on a frightful five-day eating binge across the city. 
+
+We quickly learned that chili oil is the blood coursing through the veins of Sichuanese cuisine. Every restaurant has its own blend, but, basically, this is vegetable oil infused with abundant hot red peppers, Sichuanese [numbing peppers](https://en.wikipedia.org/wiki/Sichuan_pepper) (pictured above), and other spices. Sichuanese food is about the innumerable concoctions you can make with this bright red, searingly hot, delightfully tingly fuel.  For those of you who want specific restaurants and dishes, we've captured all the gluttonous details below. 
+
+### Next Steps
+
+Chengdu also offered a base to plan our onward travels.  For whatever reason, we find it hard to plan our adventures more than one step ahead -- and have been feeling this particularly acutely in China - a country so massive that even two months is only enough to see a small slice.
+
+Sometimes it just takes a while for the right idea to gel.
+
+We spent our first couple days in Chengdu plotting out a version of the standard Lonely Planet swing through China's eastern cities for our next few weeks -- Tiananmen Square and the Great Wall in Beijing, the French Concession in Shanghai, and so on. But it never felt quite right.
+
+Then, one evening as we were walking back from our latest eating extravaganza, we began discussing our favorite experiences so far in China. Robynn singled out our [bike ride to Xing Ping](/steffen-adventures/2015/07/12/yangshuo-cycling/), and suddenly we were off to the races. 
+
+Before we met, we both biked across the U.S. in college. Robynn biked from Connecticut to Seattle in 2001; Michael from the same starting point to San Francisco two years later. We both found it to be an incredibly special mode of discovery.  On a bike, landscapes slowly unfurl around you and you can savor both details and quirks that fly by unnoticed inside a car, bus, or train. And, there is simply no better way to strike up a conversation with strangers than to arrive in spandex!
+
+A quick internet search for biking in Chengdu led us to Larry Adamson. Larry is a Kentuckian by birth, who's spent the better part of the last 10 years in China.  He now owns two small bike businesses in Chengdu -- and has a ton of great stories about what its like to run a small business in China as a foreigner (the bribe demands, the decision about whether to take on a local partner, and more).
+
+Larry's first business is Natooke, a bike shop that builds gorgeous bamboo frames and other custom bikes. 
+
+<img src="{{ site.baseurl }}/img/chengdu-natook.jpg">
+<span class="caption text-muted">Larry and one of his awesome bamboo bikes.</span>
+
+His second business is Bike China, China's leading bike tour operator. Bike China had recently fallen on slower days as its former owner, Peter Cao, got busy with other projects, but earlier this year, Larry bought the business and is giving it a refresh and reboot.
+
+All this meant that Larry was exactly the guy we were looking for. Less than 72 hours after meeting him, we were geared up and ready to head out on an epic ten day bike tour up the Sichuan's towering 14,000-foot mountain passes to the edge of the Tibetan Plateau.
+
+Now we'll see if we can burn off a little bit of that chili oil!
+
+## Where and What to Eat
+
+As promised, here's a greatest-hits list of where we ate, in roughly chronological order. The foodies among you might also get a kick out of our [Hong Kong blog](/steffen-adventures/2015/07/05/b-hong-kong/).
+
+- **Chen Mapo Dofu: Mapo Dofu.** This dish is one of the [classics of Sichuanese cuisine](http://www.seriouseats.com/2014/08/what-to-eat-sichuan-chongqing-best-dishes.html), tofu flavored with ground beef and drowning in bubbling chili oil. Michael grew up with a version of this, so it was fun to try the classic.
+
+- **Yang Yang Can Guan: Ganbian Sijidou and Shui Zhu Niu Rou.** See Lauren and Ben's [blog](https://shawkeane.wordpress.com/2012/06/27/sichuan-feasts/) for a deightful description of these classics. Yang Yang was out of Lauren and Dan's other recommendation -- Hui Guo Rou -- but we found it at a couple other spots later.
+
+- **Xiaojiahe Family Style Noodles: Crispy Meat Noodles and Meat Sauce Noodles.** These are both variations on the traditional Sichuanese Dan Dan Mian. Super-fresh, hand shaped noodles are a central part of Sichuanese cuisine. Unlike in more southern parts of China (like Yangshuo) they are generally made from wheat flour, rather than rice. And they are awesome. In this case they were covered with variations of ground pork sauce, with a generous coating of chili oil.
+
+- **Yulin Da Baozi: Ya Cao Baozi and Long Bean Baozi.** These freshly steamed local variations on China's ubiquitous steamed buns included two kinds of pickled vegetable and meat stuffing.
+
+- **Grandma Jin's Hand-Pulled Noodles: Chicken Entrail Noodles and Meat Sauce Steamed Egg.** Grandma Jin's served wide and flat noodles -- called pu gai mian or "bedspread noodles." These were pulled right in front of us from a big bowl of dough, and flavored with fried chicken intestine (mmmm....). On the side, we sampled a simple egg custard that the Sichuanese eat as a savory snack, drizzled with meat sauce and (you guessed it) a bit of chili oil. Robynn really liked this custard, Michael not so much.
+
+- **Yan Tai Po Guo Kui: Guo Kui.** This Sichuanese sandwich is a crispy baked bread pocket stuffed with pork and a spicy mix of shredded carrots, cucumbers, and bean sprouts, all drizzled with chili oil.
+
+- **Zhang Liang Fen: Tian Shui Mian ("Sweet Water Noodles").** These thick, hand-pulled noodles are topped with ground peppercorns, chili oil, sesame paste, and a spoonful of sugar. This dish reminded us, in a strange way, of a peanut butter sandwich -- sweet, nutty, and doughy. When we get back we're surely going to try PB&J with a dash of chili oil.
+
+- **Lao Ma Tou: Sichuanese Hot Pot.** This is a furiously boiling pot of broth and chili oil into which you dunk (and flash-cook) meats, vegetables, and dumplings. After pulling it from the pot, searing hot, you dip each item once more before you eat it, this time in sesame oil (yes, more oil!) mixed with garlic, sugar, vinegar, and soy sauce. 
+
+
+---
+
+# Video
+
+<iframe src="https://player.vimeo.com/video/137131635" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
