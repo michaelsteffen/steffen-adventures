@@ -36,7 +36,7 @@
         app.locations.features.forEach(function(postFeature) {
           // basic layer properties. . .
           var highlightLayer = {
-            "id": postFeature.properties.id + "highlight",
+            "id": postFeature.properties.id + "-highlight",
             "type": "symbol",
             "source": "post-locations",
             "filter": ["==", "id", postFeature.properties.id],
@@ -47,22 +47,15 @@
               "text-allow-overlap": true,
               "text-font": "DIN Offc Pro Bold, Arial Unicode MS Regular",
               "text-offset": [0, 1.4],
-              "text-anchor": "top"
+              "text-anchor": "top",
+              "visibility": "none"
             },
             "paint": {
               "text-size": 12,
               "text-color": "#0085a1",
               "text-halo-color": "white",
               "text-halo-width": 1,
-              "icon-opacity": 0,
-              "text-opacity": 0
             }
-          }
-
-          // add the active class
-          highlightLayer["paint." + postFeature.properties.id  + "_highlight"] = {
-            "icon-opacity": 1,
-            "text-opacity": 1
           }
 
           //add layer to the map
@@ -73,11 +66,11 @@
           app.map.featuresAt(e.point, {radius: 12, includeGeometry: true}, function(err, features) {
             if (err) throw err;
             if (features.length) {
-              app.map.setClasses([features[0].properties.id  + "_highlight"]);
-              app.map.highlighted = true;
+              app.map.setLayoutProperty(features[0].properties.id + "-highlight", "visibility", "visible");
+              app.map.highlighted = features[0].properties.id + "-highlight";
               $('.mapboxgl-canvas').css('cursor','pointer');
-            } else if (app.map.highlighted === true) {
-              app.map.setClasses([]);
+            } else if (app.map.highlighted !== false) {
+              app.map.setLayoutProperty(app.map.highlighted, "visibility", "none");
               app.map.highlighted = false;
               $('.mapboxgl-canvas').css('cursor','');
             }
