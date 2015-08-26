@@ -22,13 +22,11 @@ mapboxgl.accessToken = 'pk.eyJ1IjoibWFzMjIyIiwiYSI6Ikc2STF6MzAifQ.rRkEFqc17IcaQe
     } );
   }
   
-  function _getLocations(callback) {
-    callback();
-    
-    /* mapboxgl.util.getJSON(app.locationFile, function (err, data) {
+  function _getLocations(callback) {    
+    mapboxgl.util.getJSON(app.locationFile, function (err, data) {
       if (err) throw err;
       app.locations = data;      
       callback();
-    }); */
+    });
   }
 })();

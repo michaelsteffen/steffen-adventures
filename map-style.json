@@ -113,6 +113,10 @@
   },
   "sprite": "{{ site.baseurl }}/sprites/trip-blog",
   "glyphs": "mapbox://fontstack/{fontstack}/{range}.pbf",
+  "transition": {
+    "duration": 0,
+    "delay": 0
+  },
   "layers": [{
     "id": "background",
     "type": "background",

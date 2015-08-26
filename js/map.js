@@ -21,7 +21,7 @@
         zoom: 1.6,
         hash: true
       });
-      
+
       // zoom to a reasonable location
 
       // add and tweak the controls
@@ -31,36 +31,53 @@
       // set up hover and click behaviors
       app.map.on('style.load', function() {
         app.map.highlighted = false;
-        var highlightSource = new mapboxgl.GeoJSONSource({ data: { "type": "FeatureCollection", "features": [] } });
-        app.map.addSource("highlightSource", highlightSource);
-        app.map.addLayer({
-          "id": "highlighted-post",
-          "type": "symbol",
-          "source": "highlightSource",
-          "layout": {
-            "icon-image": "blog-entry-highlighted",
-            "text-field": "{date}: {title}",
-            "text-font": "DIN Offc Pro Bold, Arial Unicode MS Regular",
-            "text-offset": [0, 1.4],
-            "text-anchor": "top"
-          },
-          "paint": {
-            "text-size": 12,
-            "text-color": "#0085a1",
-            "text-halo-color": "white",
-            "text-halo-width": 1
+
+        // add highlight layers
+        app.locations.features.forEach(function(postFeature) {
+          // basic layer properties. . .
+          var highlightLayer = {
+            "id": postFeature.properties.id + "highlight",
+            "type": "symbol",
+            "source": "post-locations",
+            "filter": ["==", "id", postFeature.properties.id],
+            "layout": {
+              "icon-image": "blog-entry-highlighted",
+              "icon-allow-overlap": true,
+              "text-field": "{date}: {title}",
+              "text-allow-overlap": true,
+              "text-font": "DIN Offc Pro Bold, Arial Unicode MS Regular",
+              "text-offset": [0, 1.4],
+              "text-anchor": "top"
+            },
+            "paint": {
+              "text-size": 12,
+              "text-color": "#0085a1",
+              "text-halo-color": "white",
+              "text-halo-width": 1,
+              "icon-opacity": 0,
+              "text-opacity": 0
+            }
           }
+
+          // add the active class
+          highlightLayer["paint." + postFeature.properties.id  + "_highlight"] = {
+            "icon-opacity": 1,
+            "text-opacity": 1
+          }
+
+          //add layer to the map
+          app.map.addLayer(highlightLayer);
         });
 
         app.map.on('mousemove', function(e) {
           app.map.featuresAt(e.point, {radius: 12, includeGeometry: true}, function(err, features) {
             if (err) throw err;
             if (features.length) {
-              highlightSource.setData(features[0]);
+              app.map.setClasses([features[0].properties.id  + "_highlight"]);
               app.map.highlighted = true;
               $('.mapboxgl-canvas').css('cursor','pointer');
             } else if (app.map.highlighted === true) {
-              highlightSource.setData({ "type": "FeatureCollection", "features": [] });
+              app.map.setClasses([]);
               app.map.highlighted = false;
               $('.mapboxgl-canvas').css('cursor','');
             }
