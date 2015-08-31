@@ -163,6 +163,62 @@
     }, {
       "type":"Feature",
       "properties":{
+        "type":"dive site",
+        "description":"Makasar" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[119.59200,-8.52324] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"dive site",
+        "description":"Batu Bolong" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[119.61400,-8.53679] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"dive site",
+        "description":"Castle Rock" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[119.56675, -8.43495] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"dive site",
+        "description":"Crystal Rock" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[119.56253,-8.44089] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"dive site",
+        "description":"Crystal Rock" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[119.56067, -8.46008] }
+    }, {
+      "type":"Feature",
+      "properties":{
+        "type":"dive site",
+        "description":"Sabolan Kecil" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[119.80122, -8.39304] }
+    },   {
+      "type":"Feature",
+      "properties":{
+        "type":"dive site",
+        "description":"Sebayor Kecil" },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[119.69600,-8.51104] }
+    }, {
+      "type":"Feature",
+      "properties":{
         "type":"climbing site",
         "description":"Swiss Cheese" },
       "geometry":{
