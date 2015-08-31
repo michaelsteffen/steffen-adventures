@@ -17,12 +17,10 @@
       app.map = new mapboxgl.Map({
         container: app.mapDiv,
         style: style,
-        center: [1.0, 169.0],
+        center: [10.5, 161.5],
         zoom: 1.6,
         hash: true
       });
-      
-      // zoom to a reasonable location
 
       // add and tweak the controls
       app.map.addControl(new mapboxgl.Navigation({position: 'top-left'}));
@@ -76,48 +74,4 @@
       });
     });
   }
-
-  /*
-  function _onHover(event) {
-    rideMap.map.featuresAt(event.point, {radius:5}, function(err, features) {
-      if (err) throw err;
-      
-      var activeFeatures = [];
-      var style = rideMap.map.style;
-      for (var i=0; i<features.length; i++) {
-        var feature = features[i];
-        if (style.hasClass(feature.properties.name + '_active')) {
-          activeFeatures.push(feature.properties.name);
-        }
-      }
-      
-      var change = !(JSON.stringify(activeFeatures) === JSON.stringify(lastFeatures));
-      lastFeatures = activeFeatures;
-      if (!change) {
-        return;
-      } else if (activeFeatures.length == 0) {
-        _rideOnMouseLeave(activeFeatures);
-      } else {
-        _rideOnMouseEnter(activeFeatures);
-      }
-    });
-  }
-  
-  function _rideOnMouseEnter(rideNames) {
-    _setHighlight(rideNames);
-  }
-  
-  function _rideOnMouseLeave(rideNames) {
-    _setHighlight([]);
-  }
-  
-  function _setHighlight(rideNames) {
-    var map = rideMap.map;
-    var classes = map.style.getClassList(); 
-    var newClasses = rideNames.map(function(e) { return e + '_highlight' });
-    classes = classes.filter(function(e) { return e.slice(-10) !== '_highlight' });
-    classes = classes.concat(newClasses);
-    map.style.setClassList(classes);
-  } 
-  */
 })(); 
