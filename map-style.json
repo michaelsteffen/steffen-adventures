@@ -983,8 +983,9 @@
     },
     "paint": {
       "line-color": "orange",
-      "line-width": 1.5,
-      "line-opacity": 0.75
+      "line-width": 2,
+      "line-opacity": 0.75,
+      "line-dasharray": [1,1]
     }
   }, {
     "id": "dive-sites",
