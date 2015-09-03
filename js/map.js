@@ -18,7 +18,7 @@
         container: app.mapDiv,
         style: style,
         center: [10.5, 161.5],
-        zoom: 1.6,
+        zoom: 1,
         hash: true
       });
 
